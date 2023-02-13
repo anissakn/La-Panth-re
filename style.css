@@ -680,6 +680,22 @@ p {
     font-size: 11px;
 }
 
+.agence-text-presentation {
+    font-family: Helvetica, sans-serif;
+    font-size: 1.3em;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.bold-text {
+    font-weight: 600;
+}
+
+.italic-text {
+    font-style: italic;
+}
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
