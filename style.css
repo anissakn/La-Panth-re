@@ -1051,8 +1051,12 @@ h4 {
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
     .bloc-mob-center-text {
         text-align: center;
+    }
+    .img-responsive {
+        width: 95%;
+        margin: auto;
     }
 }
